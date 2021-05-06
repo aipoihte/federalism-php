@@ -1,0 +1,17 @@
+{
+    "name": "aipoihte/federalism",
+    "type": "library",
+    "authors": [
+        {
+            "name": "dKibru",
+            "email": "kibdemta@gmail.com"
+        }
+    ],
+    "version": "0.0.1",
+    "autoload": {
+		"psr-4": {
+			"Aipoihte\\Federalism\\": "src"
+		}
+	},
+    "require": {}
+}
